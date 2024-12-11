@@ -1,0 +1,14 @@
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\bin\Debug\net8.0\Class-c#.exe
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\bin\Debug\net8.0\Class-c#.deps.json
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\bin\Debug\net8.0\Class-c#.runtimeconfig.json
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\bin\Debug\net8.0\Class-c#.dll
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\bin\Debug\net8.0\Class-c#.pdb
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\obj\Debug\net8.0\Class-c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\obj\Debug\net8.0\Class-c#.AssemblyInfoInputs.cache
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\obj\Debug\net8.0\Class-c#.AssemblyInfo.cs
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\obj\Debug\net8.0\Class-c#.csproj.CoreCompileInputs.cache
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\obj\Debug\net8.0\Class-c#.dll
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\obj\Debug\net8.0\refint\Class-c#.dll
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\obj\Debug\net8.0\Class-c#.pdb
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\obj\Debug\net8.0\Class-c#.genruntimeconfig.cache
+C:\Users\kamran.allahverdi\Desktop\Class-c#\Class-c#\obj\Debug\net8.0\ref\Class-c#.dll
